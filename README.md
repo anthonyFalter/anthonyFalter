@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an **AI/Data Science** enthusiast currently surfing the data science community for insights.   
+I am an **AI/Data Science** enthusiast that loves to surf the internet for anything Data related.
 I specialize in **Data Science** and **Statistics**, and is currently transitioning into machine learning engineering
 
 ### 🚀 What I'm Currently Focused On:
