@@ -24,4 +24,3 @@ I am an **AI/Data Science** enthusiast that loves to surf the internet for anyth
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js" />      
 </p>
 
-**Portfolio:** [anthonyFalter.github.io](https://anthonyfalter.github.io/)
