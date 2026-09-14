@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an **AI/Data Science** enthusiast that loves to surf the internet for anything Data related. In my free time, I usually experiment with big datasets, testing the limit of my hardware, and exploring AI Technologies.
+I am an **AI/Data Science** and I love data and AI engineering. In my free time, I usually experiment with big datasets, testing the limit of my hardware, and exploring AI Technologies.
 
 ### 🚀 What I'm Currently Focused On:
 * **Machine Learning:** Planning, Development, and Deployment of predictive models.
